@@ -16,7 +16,7 @@ public class Main
 			double startTime = System.nanoTime();
 			quickSort(elements,0, elements.length -1);
 			double lastElementTime = System.nanoTime();
-            double elapsedTime = lastElementTime - startTime;
+            		double elapsedTime = lastElementTime - startTime;
             
     		PrintTime(startTime, lastElementTime, elapsedTime, sizeOfArray[i]);	
         }
