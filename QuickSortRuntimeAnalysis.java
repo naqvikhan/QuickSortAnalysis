@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main 
+public class QuickSortRuntimeAnalysis 
 {
 
     public static void main(String[] args) 
